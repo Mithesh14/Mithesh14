@@ -13,3 +13,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact" alt="mithesh14" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithesh14&show_icons=true&locale=en" alt="mithesh14" /></p>
+
+## Contact
+<pre>
+ <a href="https://www.hackerrank.com/mithesharun">Hackerrank</a><br>
+ <a href="https://www.linkedin.com/in/Mithesh14">LinkedIn</a><br>
+</pre>
