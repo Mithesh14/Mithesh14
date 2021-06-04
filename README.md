@@ -4,8 +4,8 @@
 
 ### 📝:Brief Introduction.
 - 🔭 I’m currently studying in **Madras Institute of technology**
-- ⚡ Fun fact **Longest streak as class leader for 8 years 😀**
-- 💬 Ask me about tech related and music related queries 🤩!
+- ⚡ Fun fact :**Longest streak as class leader for 8 years 😀**
+- 💬 Ask me about **tech related and music related queries 🤩**!
 - 📫 Mail me **mithesharun@gmail.com**<br><br>
 
 
