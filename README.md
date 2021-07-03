@@ -1,7 +1,7 @@
 <h1 align="center">Hey everyone🖐, I'm Mithesh A</h1>
 <h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai</h3><br><br>
 
-<a href="https://github.com/hemanth-07-11">
+<a href="https://github.com/Mithesh14">
     <img src="https://komarev.com/ghpvc/?username=Mithesh14&style=gold"> 
 </a>
 ### 📝 Brief Introduction!
