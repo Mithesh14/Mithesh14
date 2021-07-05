@@ -7,6 +7,8 @@
 - 💬 Ask me about **tech and music related queries 🤩**!
 - 📫 Mail me **mithesharun@gmail.com**<br><br>
 
+### ⚡ Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithesh14&" alt="mithesh14" /></p>
 
 ### 📊 Github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithesh14&show_icons=true&locale=en&theme=radical" alt="mithesh14" /></p><br>
