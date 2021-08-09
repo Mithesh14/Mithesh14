@@ -25,5 +25,5 @@
 [<img src = "https://img.shields.io/badge/codechef-%23735940.svg?&style=for-the-badge&logo=codechef&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
 
 ### 💻 My website
-[<img src = "https://img.shields.io/badge/computer-%23735940.svg?&style=for-the-badge&logo=firefox&logoColor=white&theme=radical">](https://mithesh14.netlify.app/)
- 
+[<img src = "https://img.shields.io/badge/Mywebsite-%23735940.svg?&style=for-the-badge&logo=firefox&logoColor=white&theme=radical">](https://mithesh14.netlify.app/)
+<br><br> 
