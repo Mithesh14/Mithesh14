@@ -19,11 +19,10 @@
 
 ### 🤟 Connect with me
 [<img width=32 height=32 src="https://simpleicons.org/icons/instagram.svg">](https://www.instagram.com/mithesh_14)&nbsp;&nbsp;&nbsp;
-[<img width=32 height=32 src="https://simpleicons.org/icons/github.svg">](https://www.github.com/mithesh14)&nbsp;&nbsp;&nbsp;
 [<img width=32 height=32 src="https://simpleicons.org/icons/hackerrank.svg">](https://www.hackerrank.com/mithesharun)&nbsp;&nbsp;&nbsp;
 [<img width=32 height=32 src="https://simpleicons.org/icons/codechef.svg">](https://www.hackerrank.com/mithesharun)&nbsp;
 &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical" />](https://www.linkedin.com/in/Mithesh14) [<img src = "https://img.shields.io/badge/github-%2320A1F1.svg?&style=for-the-badge&logo=github&logoColor=white">](https://twitter.com/Fahim_FBA/)  [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/iptu.fba)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical" />](https://www.linkedin.com/in/Mithesh14) [<img src = "https://img.shields.io/badge/github-%2320A1F1.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/mithesh14)  [<img src = "https://img.shields.io/badge/instagram-%2320A1F1.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mithesh_14_)
 
 ### 💻 My website
  <a href="https://mithesh14.netlify.app/">Mithesh</a>
