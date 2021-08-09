@@ -1,6 +1,6 @@
 <h1 align="center">Hey everyone🖐, I'm Mithesh A</h1>
 <h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai <br><br></h3>
-  
+
 ### 📝 Brief Introduction!
 - 🔭 I’m currently studying in **Madras Institute of technology**
 - ⚡ Fun fact :**Longest streak as class leader for 8 years 😀**
