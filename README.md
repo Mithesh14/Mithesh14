@@ -1,6 +1,13 @@
 <h1 align="center">Hey everyone🖐, I'm Mithesh A</h1>
 <h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai</h3><br><br>
 
+<a href="https://github.com/Mithesh14" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mithesh14?label=Github%20followers&style=for-the-badge">
+  </a> <br> <br>
+  <a href="https://github.com/Mithesh14" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Mithesh14&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  </a>
+  
 ### 📝 Brief Introduction!
 - 🔭 I’m currently studying in **Madras Institute of technology**
 - ⚡ Fun fact :**Longest streak as class leader for 8 years 😀**
@@ -12,16 +19,6 @@
 
 ### 📊 Github stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithesh14&show_icons=true&locale=en&theme=radical" alt="mithesh14" /></p><br>
-
-<div align="center">
-
-[![](https://raw.githubusercontent.com/Mithesh14/Mithesh14/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/FahimFBA/FahimFBA/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-</div>
-
 
 ### 🎖️ Used languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
