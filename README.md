@@ -22,7 +22,7 @@
 [<img src = "https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&theme=radical">](https://www.github.com/mithesh14)
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
 [<img src = "https://img.shields.io/badge/instagram-%23DA2D7D.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=radical">](https://www.instagram.com/mithesh_14_) 
-[<img src = "https://img.shields.io/badge/codechef-%23FBF9ED.svg?&style=for-the-badge&logo=codechef&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
+[<img src = "https://img.shields.io/badge/codechef-%23735940.svg?&style=for-the-badge&logo=codechef&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
 
 ### 💻 My website
  <a href="https://mithesh14.netlify.app/">Mithesh</a>
