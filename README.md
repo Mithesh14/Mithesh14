@@ -1,7 +1,5 @@
 <h1 align="center">Hey everyone🖐, I'm Mithesh A</h1>
-<h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai</h3><br><br>
-
-<h3 align="center">
+<h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai
 <a href="https://github.com/Mithesh14" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mithesh14?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
