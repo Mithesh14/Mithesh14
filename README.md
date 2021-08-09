@@ -17,15 +17,12 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
 
 
-<div align="center">
 ### 🤟 Connect with me
 [<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/Mithesh14)
 [<img src = "https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&theme=radical">](https://www.github.com/mithesh14)
 [<img src = "https://img.shields.io/badge/hackerrank-%2322DC060.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
 [<img src = "https://img.shields.io/badge/instagram-%23DA2D7D.svg?&style=for-the-badge&logo=instagram&logoColor=white&theme=radical">](https://www.instagram.com/mithesh_14_) 
 [<img src = "https://img.shields.io/badge/codechef-%23735940.svg?&style=for-the-badge&logo=codechef&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
-
-</div>
 
 ### 💻 My website
  <a href="https://mithesh14.netlify.app/">Mithesh</a>
