@@ -18,7 +18,7 @@
 
 
 ### 🤟 Connect with me
-[<img src = "https://img.shields.io/badge/linkedin-%2320A1F1.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/Mithesh14)
+[<img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=radical">](https://www.linkedin.com/in/Mithesh14)
 [<img src = "https://img.shields.io/badge/github-%2320A1F1.svg?&style=for-the-badge&logo=github&logoColor=white&theme=radical">](https://www.github.com/mithesh14)
 [<img src = "https://img.shields.io/badge/hackerrank-%2320A1F1.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun)
 [<img src = "https://img.shields.io/badge/hackerrank-%2320A1F1.svg?&style=for-the-badge&logo=hackerrank&logoColor=white&theme=radical">](https://www.hackerrank.com/mithesharun) [<img src = "https://img.shields.io/badge/codechef-%2320A1F1.svg?&style=for-the-badge&logo=codechef&logoColor=white&theme=radical">](https://www.instagram.com/mithesh_14_)
