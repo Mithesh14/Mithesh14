@@ -2,7 +2,7 @@
 <h3 align="center">A computer science junior student studying in Madras Institute of technology, Chennai <br><br>
 <a href="https://github.com/Mithesh14" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mithesh14?label=Github%20followers&style=for-the-badge&theme=radical">
-  </a> <br>
+  </a> <br><br>
   <a href="https://github.com/Mithesh14" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=Mithesh14&label=Views&color=brightgreen&style=flat-square&theme=radical" alt="views on github" />
   </a>
