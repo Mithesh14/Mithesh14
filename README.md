@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithesh14&show_icons=true&locale=en&theme=radical" alt="mithesh14" /></p><br>
 
 ### 🎖️ Used languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithesh14&show_icons=true&locale=en&layout=compact&theme=radical" alt="mithesh14" />&nbsp;&nbsp;&nbsp;</p><br><br><br><br><br><br>
 
 
 ### 🤟 Connect with me
